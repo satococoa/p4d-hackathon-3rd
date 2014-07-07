@@ -28,8 +28,8 @@ p4d と NUBoard の欧文印刷株式会社さんとの共同開催でエンジ�
 
 ### pixiv チーム
 - @bash0C7
-- pixiv のデザイナさん
-- pixiv のエンジニアさん
+- pixiv のデザイナさん x 1
+- pixiv のエンジニアさん x 2
 
 ### cakes チーム
 - @fukayatsu
