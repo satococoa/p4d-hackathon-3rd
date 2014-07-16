@@ -50,6 +50,15 @@ http://connpass.com/event/6139/
 - 19:30 希望者で会場内でピザ・ビール等を出前しての懇親会 (実費)
 - 21:00 撤収
 
+
+## 開発状況実況ルーム
+
+idobata に p4d/nuhack っていうルームを作りました。
+github の hook を設定して作業状況を垂れ流したりしませんか？
+
+Guest Invitation URL: https://idobata.io/organizations/p4d/rooms/nuhack/join_request/15c6a330-1cc5-47bc-a1a3-e988e521b948
+
+
 ## 参加者
 
 ### pixiv チーム
@@ -81,4 +90,3 @@ http://connpass.com/event/6139/
 ### ○○チーム
 - @itoh
 - @willnet
-
